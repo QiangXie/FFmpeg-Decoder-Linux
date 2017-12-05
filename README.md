@@ -1,7 +1,7 @@
 
-**AN FFMPEG DECODER ON LINUX PLATFORM** 
+**An FFmpeg decoder on Linux platform** 
 
-Modify FFMPEG_LIB_DIR，FFMPEG_INCLUDE_DIR，OPENCV_INCLUDE_DIR and OPENCV_LIB_DIR to your path, ant then:
+Modify FFMPEG_LIB_DIR，FFMPEG_INCLUDE_DIR，OPENCV_INCLUDE_DIR and OPENCV_LIB_DIR in Makefile to your lib path, and then:
 
 	cd FFmpeg-Decoder-Linux
 	make
